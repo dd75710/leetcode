@@ -20,5 +20,5 @@ var longestCommonPrefix = function(strs) {
     }
     return prefix;
 };
-//chat GPTに頼ったからもう一回やろうね。
+//chat GPTにヒントもらったたからもう一回やろうね。
 //2024/04/26
